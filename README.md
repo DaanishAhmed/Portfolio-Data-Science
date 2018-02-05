@@ -1,7 +1,7 @@
 Daanish Ahmed's Data Science Portfolio
 ----------------
 
-This portfolio contains some of the projects I have completed over the past few years.  It showcases my experience using programs such as R, Python, SAS Enterprise Miner, SQL, and Tableau.  Many of these projects highlight multiple skills needed by data scientists, such as problem identification, data exploration, data cleaning, data sampling, building predictive models, comparing models, data storytelling (communication), creating visualizations, and providing solutions to business problems.  Some of these are group projects, for which they showcase my ability to effectively collaborate with others.
+This portfolio contains some of the projects I have worked on while completing my M.S. in Data Analytics at the University of Maryland University College.  It showcases my experience using programs such as R, Python, SAS Enterprise Miner, SQL, and Tableau.  Many of these projects highlight multiple skills needed by data scientists, such as problem identification, data exploration, data cleaning, data sampling, building predictive models, comparing models, data storytelling (communication), creating visualizations, and providing solutions to business problems.  Some of these are group projects, for which they showcase my ability to effectively collaborate with others while developing data-driven solutions.
 
 
 R
