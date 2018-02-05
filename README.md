@@ -42,7 +42,7 @@ https://github.com/DaanishAhmed/R-Clustering
 This project involves using R to examine a dataset containing leaf species information. My goal is to categorize leaf specimens into their correct species based on their characteristics. I will do this by using k-means clustering, an unsupervised classification method that finds shared characteristics between cases and groups them into appropriate clusters.
 
 
-### Text Mining Analysis on President Donald Trump's Tweets (Group Project)
+### [Group Project] Text Mining Analysis on President Donald Trump's Tweets
 
 https://github.com/DaanishAhmed/R-Text-Mining-Group-Project
 
@@ -107,7 +107,7 @@ https://github.com/DaanishAhmed/SQL-ERD-Querying-Project
 This is a simple SQL project that showcases querying on an airlines dataset. It showcases queries such as select statement variations, inserting and removing data, manipulating records in tables, join statements, ordering and grouping, variable creation, filtering, and querying by date. The project contains 10 problems, which are all included in the file "Airlines Querying Exercise.xlsx".
 
 
-### Extract, Transform, and Load (ETL) on Company Product Order Data (Group Project)
+### [Group Project] Extract, Transform, and Load (ETL) on Company Product Order Data
 
 https://github.com/DaanishAhmed/SQL-ETL-Group-Project
 
@@ -117,7 +117,7 @@ This is a group project where I collaborated with two other UMUC graduate studen
 Tableau
 ----------------
 
-### Time Series Analysis on Countries Through Time (Video)
+### [Video] Time Series Analysis on Countries Through Time
 
 https://github.com/DaanishAhmed/Tableau-Time-Series-Presentation
 
