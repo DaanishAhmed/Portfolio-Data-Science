@@ -49,6 +49,13 @@ https://github.com/DaanishAhmed/R-Text-Mining-Group-Project
 This is a group project where I collaborated with two other UMUC graduate students. The project is a text mining analysis where we analyzed the tweets sent by President (then candidate) Donald J. Trump during the 2016 presidential election. Our method involved finding terms that frequently appear together and determining the relationships between those words. We also used visualizations to determine the most prominent words and their significance. Our goal was to understand the important concepts and phrases of Trump's campaign and study what made his message resonate with voters.
 
 
+### Text Mining Analysis on State of the Union Addresses
+
+https://github.com/DaanishAhmed/R-Text-Mining-2
+
+This project involves using R to perform a text mining analysis on the State of the Union addresses delivered each year between 1989 and 2017. The goal was to evaluate term frequencies and correlations between words to understand some of the most important issues facing the United States during this period. The project has similarities with the Text Mining Group Project on President Donald Trump's Tweets, since it involves methods such as word clouds and word association mining. However, it also incorporates additional approaches such as correlation plots and k-means clustering.
+
+
 SAS Enterprise Miner
 ----------------
 
