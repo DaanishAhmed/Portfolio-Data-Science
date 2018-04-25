@@ -131,6 +131,26 @@ https://github.com/DaanishAhmed/Tableau-Time-Series-Presentation
 This presentation was made using Tableau software, and it involves analyzing the Gross Domestic Product (GDP), life expectancy, and child mortality rate of five countries between 1960 and 2015. The data was collected from the United Nations for the following countries: the United States, China, Sweden, the Philippines, and Afghanistan. The goal is to determine the existence and strength of any relationship between GDP and life expectancy or mortality rate. Additionally, I used time series analysis to predict each country's life expectancy, mortality rate, and GDP up to the year 2020 and studied whether those predictions were reliable.
 
 
+Spark
+----------------
+
+### Logistic Regression on Titanic and Low Birth Weight Data
+
+https://github.com/DaanishAhmed/Spark-Logistic-Regression
+
+This project involves using Spark to create predictive models for analyzing two datasets: a Titanic survivors dataset, and a low birth weight infants dataset. The first part of the analysis involves using logistic regression and Naive Bayes to categorize Titanic victims based on whether they survived. The second part of the analysis involves using logistic regression, Naive Bayes, and decision trees to predict whether babies will be born with low birth weight. In this part, I will evaluate each model's performance to determine which technique is most effective for this dataset.
+
+
+Db2 Warehouse on Cloud
+----------------
+
+### Sentiment Analysis on Claritin Side Effects Twitter Data (Using SQL and R)
+
+https://github.com/DaanishAhmed/Db2-Warehouse-Sentiment-Analysis
+
+This project utilizes IBM's Db2 Warehouse on Cloud service to analyze a Twitter dataset on user sentiment towards Claritin. The goal of the analysis is to determine which factors (such as gender or current symptoms) contribute the most towards low user sentiment. The first component of the analysis involves loading the data into the warehouse and performing exploratory data analysis using SQL. The rest of the project consists of analyzing the data in R. Some of the methods include pie charts, bar graphs, logistic regression, word clouds, k-means clustering, and hierarchical clustering.
+
+
 Watson Analytics
 ----------------
 
@@ -160,6 +180,16 @@ This project involves the use of Watson Analytics to analyze two datasets: an em
 https://github.com/DaanishAhmed/Watson-Analytics-Complete-Analysis
 
 This project involves the use of Watson Analytics to analyze a dataset containing vehicle accident information. In my analysis, I explored the data using an exploratory data analysis (EDA), leveraged visualizations, built decision trees to classify accident severity, communicated my findings using dashboards and storybooks, and implemented social media data to enhance my findings.
+
+
+Watson Conversation
+----------------
+
+### Chatbot Implementation on Ice Cream Shop Transactions
+
+https://github.com/DaanishAhmed/Watson-Conversation-Chatbot
+
+This project involves using IBM Watson Conversation to build a chatbot that manages an online store for a fictional ice cream shop. The goal of the chatbot is to process transactions and answer user questions about products, order methods, or store locations. The chatbot is designed to simulate a more human level of transaction, which it achieves by remembering the user's name, storing their existing order information, and using variations of each response. The bot allows for the user to order online or visit a physical store. If the user wants to shop online, the bot will ask for their order, compute the order price, and ask for order confirmation. If the user wants to visit an actual store, the bot will ask for their state of residence and list all open locations in that state.
 
 
 DecisionsFirst
