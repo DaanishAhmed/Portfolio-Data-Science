@@ -94,6 +94,13 @@ https://github.com/DaanishAhmed/SAS-EM-Ensemble-Models-2
 This project involves using SAS Enterprise Miner to analyze a dataset containing vehicular accident information. I will use ensemble models, which combine distinct models and average their outputs. Heterogeneous models combine different types of predictive models (such as regression, neural networks, and SVM). By experimenting with different combinations of ensemble and individual models, I will determine which method is the most accurate and which can identify the highest number of fatal accidents.
 
 
+### Capstone Project on Storm Events Data (Using Tableau, R, and SAS EM)
+
+https://github.com/DaanishAhmed/SAS-EM-Capstone-Project
+
+This is my capstone project, and it involves using Tableau, R, and SAS Enterprise Miner to analyze three datasets containing storm information from NOAA and the NWS during the year 2017. The project focuses on predicting the likelihood that a storm will produce fatalities. It involves using SAS EM to build five types of predictive models: logistic regression, neural network, support vector machine (SVM), random forest, and heterogeneous ensemble model. By experimenting with different types of models, I will select the method that can identify the highest number of storm casualties. Additionally, I use Tableau to create visualizations exploring the relationship between storm casualties, geographic location, and time of year. This helps to determine which states have the highest risk of casualties, and which months of the year are more likely to experience dangerous storms. Lastly, I use R to conduct a text mining analysis on the storm event narratives. I will create a word cloud that showcases the most frequent terms used to describe dangerous storms, which is helpful for gaining insights about these storms' characteristics.
+
+
 Python
 ----------------
 
